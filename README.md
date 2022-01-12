@@ -14,3 +14,4 @@ There are a few good use cases for refs:
 
 For example, instead of exposing open() and close() methods on a Dialog component, pass an isOpen prop to it.
 
+![reactjs-refs](https://user-images.githubusercontent.com/86103554/149103299-3dec8f3b-ca68-406f-971f-cdca323b930b.png)
